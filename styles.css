@@ -7,17 +7,34 @@ body {
 	background-size: cover;
 }
 
+
+
 img {
-	width: 200px;
-	height: 250px;
+	width: 150px;
+	height: 150px;
 	border-radius: 100%;
-	margin: 10px 0;
+	padding-right: ;
 	border: 5px solid;
+
 }
 
 h4 {
 	font-family: tahoma;
-	padding-left: 40px;
+	padding-left: 10px;
+}
+
+.mig {
+	font-size: larger;
+}
+
+.spi {
+	padding: 30px;
+	font-size:large ;
+	
+}
+
+.img br {
+	margin: 10px;
 }
 
 a {
